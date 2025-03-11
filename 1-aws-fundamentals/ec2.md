@@ -36,7 +36,7 @@ Before we dive into components of EC2, let's first understand the Instance types
 
 
 <img src="https://cdn-images-1.medium.com/max/800/1*yKRBk8vyZ7yQHrLbjp4PtQ.png" alt="img" style="zoom:50%;" />
-
+Two more -> Accelerated Computing and HPC Optimized
 https://aws.amazon.com/ec2/instance-types/
 
 **How to Choose the instance  for you**
